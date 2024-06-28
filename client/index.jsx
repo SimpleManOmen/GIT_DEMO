@@ -1,3 +1,5 @@
 // This is my comment
-// econd comment
-const addNum = 8
+// second comment
+
+const addNum = 7
+
